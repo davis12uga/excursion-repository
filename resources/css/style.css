@@ -1,0 +1,40 @@
+body{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: white;  
+  background-color: black;
+}
+header{
+    font-size: 50px;
+    padding: 20px;
+}
+
+.Aquamarine {
+    color: aquamarine;
+    font-size: 16px;  
+}
+
+body{
+    text-align: center;
+    width: 100%;
+    height: 100%;
+}
+.personal-travel{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.remembers{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: gray;
+}
+
+#small-phone{
+    padding: 25px 10px 10px;
+}
+
+#copy{
+    color: gray;
+    text-align: right;
+}
